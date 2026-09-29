@@ -41,7 +41,7 @@ Procure por `AJUSTAR` no `index.html` — marquei cada ponto. Em resumo:
 1. **Foto da equipe** → salve como `img/equipe.jpg` (recomendado: 1200×800px).
    Enquanto não existir, aparece um aviso pontilhado no lugar.
 2. **Bairros/cidades atendidas** (seção de dúvidas) → listar ajuda muito a aparecer no Google.
-3. **CNPJ** no rodapé, se quiser passar mais credibilidade.
+3. ~~CNPJ~~ → já está no rodapé e nos dados estruturados (`taxID`).
 4. **Depoimentos**: não inventei nenhum. Quando tiver avaliações reais de clientes,
    vale muito criar uma seção com elas.
 
@@ -79,6 +79,7 @@ punição no buscador. A nota aparece visualmente para quem visita, e só.
 - Endereço: R. Vianópolis, 191 — Vila Maria, São Paulo/SP, 02131-050
 - Região: São Paulo, capital e região
 - Desde 2010
+- CNPJ: 15.674.949/0001-44 (rodapé e `taxID` nos dados estruturados)
 
 - Horário: seg. a sex., 8h às 18h (sáb. e dom. fechado), conferido no Google em 27/09/2026.
   Aparece na seção de contato, no rodapé e nos dados estruturados (`openingHoursSpecification`).
